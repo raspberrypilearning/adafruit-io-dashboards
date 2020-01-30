@@ -1,58 +1,110 @@
-## Introduction
 
-Add project description here. What will learners be making?
+--- task ---
 
-### What you will make
+If you haven't already created an Adafruit account and created a feed, then have a look at this link - https://projects.raspberrypi.org/en/projects/adafruit-io-feeds
 
---- no-print ---
-Add instructions for using the embedded content here.
+--- /task ---
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- task ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Login to https://io.adafruit.com
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- /task ---
 
-+ Describe hardware here
+--- task ---
 
-### Software
+Click on **Dashboards** and then **view all**.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![image showing the menu view all dashboards](images/dashboards.png)
 
-### Downloads
+--- /task ---
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+--- task ---
 
---- /collapse ---
+Click on **Actions** and then select **Create a new dashboard** from the menu.
 
---- collapse ---
----
-title: What you will learn
----
+![image showing drop-down menu when Actions clicked, and the Create a new dashboard option shown](create-dashboard.png)
 
-+ Two or three learning objectives
-+ ...should go here
+--- /task ---
 
---- /collapse ---
+--- task ---
 
---- collapse ---
----
-title: Additional information for educators
----
+Give your dashboard a name and a description and then click **Create**.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+![image showing form to create a dashboard with Name and Description fields](images/create-dashboard-form.png)
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+--- /task ---
 
---- /collapse ---
+--- task ---
+
+Click on your newly created dashboard in the table of available dashboards.
+
+![image showing a Test dashboard in a table](images/select-test.png)
+
+--- /task ---
+
+--- task ---
+
+You will now see your blank dashboard. Notice the small icons in the top right.
+
+![image showing an empty Test dashboard](images/test-dashboard.png)
+
+--- /task ---
+
+--- task ---
+
+Click on the **Create a new block** icon.
+
+![image showing the icons with Create a new block highlighted](images/dashboard-icons.png)
+
+For this example the **Line Chart** block will be selected.
+
+![image showing the graphic for a Line Chart](images/linechart.png)
+
+--- /task ---
+
+--- task ---
+
+Choose up to five feeds to be included in your dashboard.
+
+![image showing a table of feeds with the Test feed selected](images/select-feeds.png)
+
+Click on **Next step>**.
+
+--- /task ---
+
+--- task ---
+
+You now have the option to add labels and select time constants for your block.
+
+![image showing a form for settings of the block](images/block-settings.png)
+
+--- /task ---
+
+--- task ---
+
+Your feed data should be shown in the block. You can also edit the layout to resize the block, add more blocks, and position them.
+
+![image showing graph on the dashboard](images/graph.png)
+
+--- /task ---
+
+--- task ---
+
+You can unlock your dashboard by clicking the unlock icon.
+
+![image showing highlighted unlock icon](images/unlock.png)
+
+And then use the **Share** icon to get a shareable URL for your dashboard.
+
+![image showing the Share icon](images/share.png)
+
+--- /task ---
+
+
+
+
+
+
+
+
